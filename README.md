@@ -39,11 +39,12 @@
 
 ## 🌍 Connect With Me
 <a href="https://www.instagram.com/eddy.oe_/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30"> eddy.oe
 </a>
+<hr>
 <a href="mailto:eder.joel55@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30">
-</a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30"> eder.joel55@gmail.com
+</a> 
 <!--
 **Ederjoel26/Ederjoel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
