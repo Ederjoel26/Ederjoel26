@@ -38,8 +38,7 @@
 ![Notificaciones Tutorial Thumbnail](https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg)
 
 ## 🌍 Connect With Me
-- [Instagram](https://www.instagram.com/eddy.oe_/)
-- [Email](eder.joel55@gmail.com)
+- [eddy.oe](https://github.com/CLorant/readme-social-icons/blob/main/medium/light/instagram.svg)(https://www.instagram.com/eddy.oe_/)
 
 <!--
 **Ederjoel26/Ederjoel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
