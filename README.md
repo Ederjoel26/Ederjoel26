@@ -31,8 +31,11 @@
 ![Eder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ederjoel26&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📚 Tutorials
-- [Conexión Firestore a .NET MAUI + CRUD](https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe)
-- [Notificaciones para Android 13.0 en MAUI .NET + Local Notifications](https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe)
+### [Conexión Firestore a .NET MAUI + CRUD](https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe)
+![Firestore Tutorial Thumbnail](https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg)  
+
+### [Notificaciones para Android 13.0 en MAUI .NET + Local Notifications](https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe)
+![Notificaciones Tutorial Thumbnail](https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg)
 
 ## 🌍 Connect With Me
 - [Instagram](https://www.instagram.com/eddy.oe_/)
