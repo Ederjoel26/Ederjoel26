@@ -38,8 +38,12 @@
 ![Notificaciones Tutorial Thumbnail](https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg)
 
 ## 🌍 Connect With Me
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg)](https://www.instagram.com/eddy.oe_/)
-
+<a href="https://www.instagram.com/eddy.oe_/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30" height="30">
+</a>
+<a href="mailto:eder.joel55@gmail.com">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="30" height="30">
+</a>
 <!--
 **Ederjoel26/Ederjoel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
