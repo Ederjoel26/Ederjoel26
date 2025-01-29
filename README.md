@@ -10,7 +10,7 @@
 
 | **Category**            | **Technologies**                                                                 |
 |-------------------------|----------------------------------------------------------------------------------|
-| **Languages**           | JavaScript (Node.js, React), TypeScript, C#                                      |
+| **Languages**           | JavaScript (Node.js), TypeScript, C# (.NET)                                     |
 | **Frontend**            | React.js, Next.js, Bootstrap, CSS, HTML, Blazor WebAssembly                     |
 | **Backend**             | NestJS, Express.js                                                              |
 | **Databases**           | MongoDB, MySQL, Firebase, Redis                                                 |
