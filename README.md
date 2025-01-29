@@ -8,45 +8,16 @@
 
 ## 🛠️ Tech Stack
 
-### **Languages**  
-- **JavaScript (Node.js, React)**  
-- **TypeScript**  
-- **C#**
-
-### **Frontend**  
-- **React.js**  
-- **Next.js**  
-- **Bootstrap**  
-- **CSS & HTML**  
-- **Blazor WebAssembly**
-
-### **Backend**  
-- **NestJS**  
-- **Express.js**
-
-### **Databases**  
-- **MongoDB**  
-- **MySQL**  
-- **Firebase**  
-- **Redis**
-
-### **Mobile Development**  
-- **Xamarin**  
-- **MAUI**
-
-### **Web Scraping & Automation**  
-- **Puppeteer**  
-- **Selenium**
-
-### **DevOps & Tools**  
-- **AWS** (Lambda, S3, EC2)  
-- **GitHub Actions**
-
-### **Development Tools & Workflow**  
-- **Vim** (Vim motions, keybindings, advanced navigation)  
-- **Neovim**  
-- **VS Code**  
-- **Visual Studio**
+| **Category**            | **Technologies**                                                                 |
+|-------------------------|----------------------------------------------------------------------------------|
+| **Languages**           | JavaScript (Node.js, React), TypeScript, C#                                      |
+| **Frontend**            | React.js, Next.js, Bootstrap, CSS, HTML, Blazor WebAssembly                     |
+| **Backend**             | NestJS, Express.js                                                              |
+| **Databases**           | MongoDB, MySQL, Firebase, Redis                                                 |
+| **Mobile Development**  | Xamarin, MAUI                                                                   |
+| **Web Scraping & Automation** | Puppeteer, Selenium                                                         |
+| **DevOps & Tools**      | AWS (Lambda, S3, EC2), GitHub Actions                                           |
+| **Development Tools**   | Vim (Vim motions, keybindings, advanced navigation), Neovim, VS Code, Visual Studio |
 
 ---
 
