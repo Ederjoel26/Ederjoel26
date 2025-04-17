@@ -29,15 +29,25 @@
 
 ## 📚 Tutorials
 
-### [Conexión Firestore a .NET MAUI + CRUD](https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe)
-<a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe">
-  <img src="https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg" width="500"/>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe">
+        <img src="https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg" width="300"/>
+      </a>
+      <br/>
+      <b>[Conexión Firestore a .NET MAUI + CRUD]</b>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe">
+        <img src="https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg" width="300"/>
+      </a>
+      <br/>
+      <b>[Notificaciones en Android 13.0 + Local Notifications]</b>
+    </td>
+  </tr>
+</table>
 
-### [Notificaciones para Android 13.0 en MAUI .NET + Local Notifications](https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe)
-<a href="https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe">
-  <img src="https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg" width="500"/>
-</a>
 
 <!--
 **Ederjoel26/Ederjoel26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
