@@ -29,7 +29,7 @@
 
 ## 📚 Tutorials
 
-<table>
+<table border='none'>
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe">
