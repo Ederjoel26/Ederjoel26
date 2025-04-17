@@ -29,19 +29,25 @@
 
 ## 📚 Tutorials
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe" style="display: inline-block; text-align: center;">
-    <img src="https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg" width="300"/>
-    <br/>
-    <b>Conexión Firestore a .NET MAUI + CRUD</b>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe" style="display: inline-block; text-align: center;">
-    <img src="https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg" width="300"/>
-    <br/>
-    <b>Notificaciones en Android 13.0 + Local Notifications</b>
-  </a>
-</p>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe">
+        <img src="https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg" width="300" />
+      </a>
+      <br />
+      <b>Conexión Firestore a .NET MAUI + CRUD</b>
+    </td>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <a href="https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe">
+        <img src="https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg" width="300" />
+      </a>
+      <br />
+      <b>Notificaciones en Android 13.0 + Local Notifications</b>
+    </td>
+  </tr>
+</table>
+
 
 
 
