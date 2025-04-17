@@ -29,21 +29,21 @@
 
 ## 📚 Tutorials
 
-<table border='none'>
+<table>
   <tr>
-    <td>
+    <td align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=NrZZew3AR4s&t=541s&ab_channel=Eddyoe">
         <img src="https://img.youtube.com/vi/NrZZew3AR4s/maxresdefault.jpg" width="300"/>
       </a>
       <br/>
-      <b>[Conexión Firestore a .NET MAUI + CRUD]</b>
+      <b>Conexión Firestore a .NET MAUI + CRUD</b>
     </td>
-    <td>
+    <td align="center" valign="top">
       <a href="https://www.youtube.com/watch?v=bjuhFDIEe1c&t=402s&ab_channel=Eddyoe">
         <img src="https://img.youtube.com/vi/bjuhFDIEe1c/maxresdefault.jpg" width="300"/>
       </a>
       <br/>
-      <b>[Notificaciones en Android 13.0 + Local Notifications]</b>
+      <b>Notificaciones en Android 13.0 + Local Notifications</b>
     </td>
   </tr>
 </table>
