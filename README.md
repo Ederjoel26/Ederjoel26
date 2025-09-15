@@ -16,7 +16,7 @@
 | **Databases**           | MongoDB, MySQL, Firebase, Redis                                                 |
 | **Mobile Development**  | Xamarin, MAUI                                                                   |
 | **Web Scraping & Automation** | Puppeteer, Selenium                                                         |
-| **DevOps & Tools**      | AWS (Lambda, S3, EC2), GitHub Actions                                           |
+| **DevOps & Tools**      | AWS (Lambda, S3, EC2, CloudFront, ECR, Route53), GitHub Actions |
 | **Development Tools**   | Vim (Vim motions, keybindings, advanced navigation), Neovim, VS Code, Visual Studio |
 
 ---
