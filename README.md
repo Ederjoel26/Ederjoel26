@@ -94,7 +94,7 @@ LeetCode solutions in TypeScript, exploring different problem-solving approaches
 
 ---
 
-![Metrics](https://metrics.lecoq.io/Ederjoel26?template=classic&base.header=0&base.activity=0&base.community=0&repositories=1&metadata=1&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ederjoel26&theme=radical)
 
 ---
 
