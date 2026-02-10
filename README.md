@@ -96,9 +96,9 @@ LeetCode solutions in TypeScript, exploring different problem-solving approaches
 
 ## 📈 GitHub Stats
 
-![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ederjoel26&show_icons=true&theme=radical)
+![Eder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ederjoel26&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ederjoel26&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ederjoel26&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
