@@ -94,7 +94,17 @@ LeetCode solutions in TypeScript, exploring different problem-solving approaches
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ederjoel26&theme=radical)
+## 📊 Activity & Performance
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ederjoel26&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ederjoel26&show_icons=true&theme=radical&hide_border=true" alt="Eder's GitHub stats" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ederjoel26&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
